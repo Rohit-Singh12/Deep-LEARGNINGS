@@ -1,4 +1,4 @@
-# Multi GPU Training
+# Multi GPU Training with PyTorch Lightning
 By default PyTorch utilizes only single GPU for training even if there are multiple GPUs.
 This can become severe bottleneck if training is to be done on large datasets.
 
