@@ -57,7 +57,7 @@ class RAGGraph:
         graph.add_edge(START, "context_node")
         graph.add_conditional_edges("context_node", self.conditional_edge)
         graph.add_edge("llm_node", END)
-        rag_graph = graph.compile()
+        rag_graph = graph.compile() 
         return rag_graph
 
 
