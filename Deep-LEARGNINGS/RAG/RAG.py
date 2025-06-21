@@ -6,7 +6,7 @@ from LoadDocuments import LoadDocuments
 from typing import TypedDict
 
 class RAGState(TypedDict):
-    query: str 
+    query: str   
     context: str
     answer: str
     return_context: bool = False
