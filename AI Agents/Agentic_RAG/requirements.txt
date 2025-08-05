@@ -1,0 +1,15 @@
+langchain_community
+langchain_ollama
+langchain_experimental
+langgraph
+langchain
+transformers
+langchain-tavily
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+llama-index-vector-stores-qdrant
+ipython
+faiss-cpu
+llama-index-vector-stores-faiss
+pydantic
